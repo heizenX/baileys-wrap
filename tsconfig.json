@@ -1,0 +1,15 @@
+{
+	"compilerOptions": {
+		"target": "ES2022",
+		"module": "Preserve",
+		"moduleResolution": "Bundler",
+		"declaration": true,
+		"declarationMap": true,
+		"esModuleInterop": true,
+		"noEmit": true,
+		"resolveJsonModule": true,
+		"skipLibCheck": true,
+		"strict": true
+	},
+	"include": ["src", "tests/main.ts"]
+}
