@@ -1,6 +1,6 @@
 {
 	"name": "baileys-wrap",
-	"version": "0.0.0",
+	"version": "0.1.0",
 	"description": "A strongly-typed abstraction layer over Baileys that maps raw WhatsApp events into a clean, predictable domain API.",
 	"keywords": [
 		"whatsapp",
